@@ -1,4 +1,4 @@
-# Project Name (请替换为您的项目名称)
+# TEBS: Temperature–Emissivity–Driven band selection for thermal infrared hyperspectral image classification with structured State-Space model and gated attention
 
 ## Data
 
